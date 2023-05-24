@@ -1,27 +1,11 @@
-# TestTask
+# Test_task
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
+Creat new application(test) for SworfishCompany Security
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+1. Create a new Angular app
+2. Connect the library https://material.angular.io
+3. On a clean page, display the button and hang the output of the modal window on it.
+4. Lay out a modal window like in the picture using https://material.angular.io/
+5. Necessary elements to restyle. (you can not all - at least part)
+   lock select data
+6. When you click the apply button, display the object with the selected form fields in the console.
